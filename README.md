@@ -12,4 +12,4 @@ This repo includes all my Projects, EDAs and Case studies.
 
 
 - ### Google Data Analytics Professional Certificate Capstone Project
-1.[Bellabeat Marketing Analytics Case Study](https://github.com/ade-eba/Google-Data-Analytics-Professional-Certificate)
+1. Project1: [Bellabeat Marketing Analytics Case Study](https://github.com/ade-eba/Google-Data-Analytics-Professional-Certificate)
